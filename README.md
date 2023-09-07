@@ -68,18 +68,6 @@ I'm proud of my journey in the tech industry, and I'm excited to continue growin
 Feel free to reach out to me for more details about my work experience and the projects I was involved in during this time.
 
 
-🚀 **Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 📖 Read my latest blog post: [Title of Your Blog Post](Link to Your Blog Post)
-2. 🗣️ Commented on [Repository Name](Link to Repository) in [Organization/Username](Link to Organization/Username).
-3. 💡 Opened a new issue in [Repository Name](Link to Repository) in [Organization/Username](Link to Organization/Username).
-4. ⭐ Starred [Repository Name](Link to Repository) in [Organization/Username](Link to Organization/Username).
-5. 📦 Released version [X.X.X](Link to Release) of [Your Project Name](Link to Your Project).
-
-<!--END_SECTION:activity-->
-
-Feel free to customize this section with your own recent GitHub activities. Replace the placeholders with actual information and links. To keep this section up to date automatically, you can use a tool like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for your GitHub stats and manually update the recent activity as needed.
 
 
 ## Fun Fact

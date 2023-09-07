@@ -10,6 +10,12 @@ I'm a passionate Tech Enthusiast with a knack for exploring the latest technolog
 - 💬 Feel free to ask me anything about Flutter, new tech gadgets, or anything tech-related. I'm here to share knowledge!
 - 📫 Reach out to me on [LinkedIn] https://www.linkedin.com/in/shehan-sugathapala-5b125a247/
 
+- 
+## Language Proficiency
+
+<!-- GitHub Readme Stats -->
+![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
+
 ## Fun Fact
 
 I have an insatiable curiosity for all things tech. I can't resist trying out every new gadget that hits the market, and I thrive on tech challenges!

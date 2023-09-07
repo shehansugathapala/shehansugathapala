@@ -16,35 +16,6 @@ I'm a passionate Tech Enthusiast with a knack for exploring the latest technolog
 <!-- GitHub Readme Stats -->
 ![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
 
-## Projects
-
-Here are some of my notable projects:
-
-1. **Inventory Control System (June 2022)**
-   - Description: A system for managing and tracking inventory efficiently.
-   - GitHub Repository: [Link to Repo](https://github.com/yourusername/inventory-control-system)
-
-2. **Mobile Application for Swarna Products Sales**
-   - Description: A mobile app for managing sales in a spices company.
-   - GitHub Repository: [Link to Repo](https://github.com/yourusername/swarna-products-sales-app)
-
-3. **Mobile Pharmacy Application**
-   - Description: An app for managing pharmacy operations.
-   - GitHub Repository: [Link to Repo](https://github.com/yourusername/pharmacy-app)
-
-4. **Mobile Signature Application for Tea Company**
-   - Description: An app for capturing and managing signatures for a tea company.
-   - GitHub Repository: [Link to Repo](https://github.com/yourusername/signature-tea-company-app)
-
-5. **Point of Sales System - Timetriker POS (University Project)**
-   - Description: A point-of-sale system developed as a university project.
-   - GitHub Repository: [Link to Repo](https://github.com/yourusername/timetriker-pos)
-
-6. **E-commerce Web Application (University Project)**
-   - Description: An e-commerce web application developed as a university project.
-   - GitHub Repository: [Link to Repo](https://github.com/yourusername/ecommerce-web-app)
-
-Feel free to explore these projects and check out their respective GitHub repositories for more details and code. If you have any questions or feedback, don't hesitate to reach out!
 
 ## Work Experience
 

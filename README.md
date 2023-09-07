@@ -12,7 +12,7 @@
 
 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shehan-sugathapala/) or [Twitter](https://twitter.com/YourTwitterHandle).
 
-😄 Pronouns: He/Him
+
 
 ⚡ Fun fact: I can't resist trying out every new gadget that hits the market, and I'm always up for a tech challenge!
 

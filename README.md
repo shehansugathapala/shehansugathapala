@@ -8,7 +8,7 @@ I'm a passionate Tech Enthusiast with a knack for exploring the latest technolog
 - 👥 Eager to collaborate on open-source projects and innovative tech endeavors.
 - 🤝 Seeking guidance to stay at the forefront of emerging technologies.
 - 💬 Feel free to ask me anything about Flutter, new tech gadgets, or anything tech-related. I'm here to share knowledge!
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/shehan-sugathapala/) or [Twitter](https://twitter.com/YourTwitterHandle).
+- 📫 Reach out to me on [LinkedIn][https://www.linkedin.com/in/shehan-sugathapala/] or [Twitter](https://twitter.com/YourTwitterHandle).
 
 ## Fun Fact
 

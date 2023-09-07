@@ -16,6 +16,72 @@ I'm a passionate Tech Enthusiast with a knack for exploring the latest technolog
 <!-- GitHub Readme Stats -->
 ![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
 
+## Projects
+
+Here are some of my notable projects:
+
+1. **Inventory Control System (June 2022)**
+   - Description: A system for managing and tracking inventory efficiently.
+   - GitHub Repository: [Link to Repo](https://github.com/yourusername/inventory-control-system)
+
+2. **Mobile Application for Swarna Products Sales**
+   - Description: A mobile app for managing sales in a spices company.
+   - GitHub Repository: [Link to Repo](https://github.com/yourusername/swarna-products-sales-app)
+
+3. **Mobile Pharmacy Application**
+   - Description: An app for managing pharmacy operations.
+   - GitHub Repository: [Link to Repo](https://github.com/yourusername/pharmacy-app)
+
+4. **Mobile Signature Application for Tea Company**
+   - Description: An app for capturing and managing signatures for a tea company.
+   - GitHub Repository: [Link to Repo](https://github.com/yourusername/signature-tea-company-app)
+
+5. **Point of Sales System - Timetriker POS (University Project)**
+   - Description: A point-of-sale system developed as a university project.
+   - GitHub Repository: [Link to Repo](https://github.com/yourusername/timetriker-pos)
+
+6. **E-commerce Web Application (University Project)**
+   - Description: An e-commerce web application developed as a university project.
+   - GitHub Repository: [Link to Repo](https://github.com/yourusername/ecommerce-web-app)
+
+Feel free to explore these projects and check out their respective GitHub repositories for more details and code. If you have any questions or feedback, don't hesitate to reach out!
+
+## Work Experience
+
+**Associate Software Engineer**  
+*BIHELIX Innovation (Pvt) Ltd*  
+*2021 - 2023*
+
+- Collaborated on cutting-edge software projects, contributing to innovative solutions.
+- Implemented and maintained software systems, ensuring high-quality performance.
+- Worked closely with cross-functional teams to deliver successful software products.
+
+**IT Manager**  
+*Amigo Trade & Investments Pvt Ltd*
+
+- Led IT operations, ensuring seamless technology infrastructure.
+- Managed and maintained IT systems, ensuring data security and accessibility.
+- Oversaw a team of professionals to meet IT goals and objectives.
+
+I'm proud of my journey in the tech industry, and I'm excited to continue growing and contributing to the world of technology.
+
+Feel free to reach out to me for more details about my work experience and the projects I was involved in during this time.
+
+
+🚀 **Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 📖 Read my latest blog post: [Title of Your Blog Post](Link to Your Blog Post)
+2. 🗣️ Commented on [Repository Name](Link to Repository) in [Organization/Username](Link to Organization/Username).
+3. 💡 Opened a new issue in [Repository Name](Link to Repository) in [Organization/Username](Link to Organization/Username).
+4. ⭐ Starred [Repository Name](Link to Repository) in [Organization/Username](Link to Organization/Username).
+5. 📦 Released version [X.X.X](Link to Release) of [Your Project Name](Link to Your Project).
+
+<!--END_SECTION:activity-->
+
+Feel free to customize this section with your own recent GitHub activities. Replace the placeholders with actual information and links. To keep this section up to date automatically, you can use a tool like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for your GitHub stats and manually update the recent activity as needed.
+
+
 ## Fun Fact
 
 I have an insatiable curiosity for all things tech. I can't resist trying out every new gadget that hits the market, and I thrive on tech challenges!

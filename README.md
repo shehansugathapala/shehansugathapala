@@ -1,66 +1,111 @@
-# Hey there, I'm Shehan Sugathapala 👋
+# 👋 Hi, I'm Shehan Sugathapala
 
-I'm a passionate Tech Enthusiast with a knack for exploring the latest technologies and sharing knowledge with the world. 🌟
+🚀 **Flutter Mobile Engineer | Clean Architecture | BLoC | REST APIs**
 
-## About Me
+I’m a Flutter developer with **5+ years of experience building scalable mobile applications** across transportation, delivery, messaging, and enterprise platforms.
 
-- 💻 Currently honing my skills in Flutter and diving into cutting-edge tech innovations.
-- 👥 Eager to collaborate on open-source projects and innovative tech endeavors.
-- 🤝 Seeking guidance to stay at the forefront of emerging technologies.
-- 💬 Feel free to ask me anything about Flutter, new tech gadgets, or anything tech-related. I'm here to share knowledge!
-- 📫 Reach out to me on [LinkedIn] https://www.linkedin.com/in/shehan-sugathapala-5b125a247/
+I enjoy designing **clean, maintainable mobile architectures** and building production-ready applications used by real users.
 
-- 
-## Language Proficiency
+---
 
-<!-- GitHub Readme Stats -->
-![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
+# 💻 Tech Stack
 
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin)
 
-## Work Experience
+### 🧠 Architecture
+- Clean Architecture  
+- BLoC Pattern  
+- MVVM  
 
-**Associate Software Engineer**  
-*BIHELIX Innovation (Pvt) Ltd*  
-*2021 - 2023*
+### 🔗 Backend Integration
+- REST APIs
+- JSON
+- WebSockets
+- Firebase
 
-- Collaborated on cutting-edge software projects, contributing to innovative solutions.
-- Implemented and maintained software systems, ensuring high-quality performance.
-- Worked closely with cross-functional teams to deliver successful software products.
+### 🗄 Databases
+- Firebase Firestore
+- MySQL
+- MongoDB
 
-**IT Manager**  
-*Amigo Trade & Investments Pvt Ltd*
+### ⚙ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)
 
-- Led IT operations, ensuring seamless technology infrastructure.
-- Managed and maintained IT systems, ensuring data security and accessibility.
-- Oversaw a team of professionals to meet IT goals and objectives.
+---
 
-I'm proud of my journey in the tech industry, and I'm excited to continue growing and contributing to the world of technology.
+# 🚀 What I Do
 
-Feel free to reach out to me for more details about my work experience and the projects I was involved in during this time.
+- 📱 Build scalable cross-platform mobile apps using Flutter  
+- 🧠 Implement Clean Architecture and BLoC state management  
+- 🔗 Integrate REST APIs and real-time systems  
+- ⚡ Optimize mobile performance and reliability  
+- 🌍 Collaborate with distributed remote teams  
 
+---
 
+# 📱 Featured Projects
 
+### 🚚 On-Demand Delivery Platform
+- Customer, Vendor, and Rider applications
+- Real-time order tracking with WebSockets
+- Scalable architecture supporting high transaction volume
 
-## Fun Fact
+### 🚕 Taxi Booking Platform Migration
+- Migrated legacy native apps to Flutter
+- Unified codebase for Android & iOS
+- Improved maintainability and development speed
 
-I have an insatiable curiosity for all things tech. I can't resist trying out every new gadget that hits the market, and I thrive on tech challenges!
+### 💬 Real-Time Chat Application
+- Built messaging system using BLoC and Clean Architecture
+- Real-time communication with WebSockets
 
-## Let's Connect
+---
 
-Let's embark on a journey through the ever-evolving world of technology together! 🚀
+# 📊 GitHub Statistics
 
+![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehansugathapala&show_icons=true)
 
-<!--
-**shehansugathapala/shehansugathapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
+# 🔥 GitHub Streak
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://streak-stats.demolab.com/?user=shehansugathapala)
+
+---
+
+# 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shehansugathapala)
+
+---
+
+# 🌍 Open to Opportunities
+
+I’m currently **open to remote Flutter / Mobile Engineer opportunities worldwide.**
+
+If you’re building something interesting in mobile, I’d love to collaborate.
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/shehan-sugathapala-5b125a247
+
+💻 GitHub  
+https://github.com/shehansugathapala
+
+📧 Email  
+shehansugathapala035@gmail.com
+
+---
+
+⭐ **Always learning. Always building. Always improving.**

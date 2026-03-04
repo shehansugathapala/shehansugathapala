@@ -83,7 +83,7 @@ I enjoy designing **clean, maintainable mobile architectures** and building prod
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shehansugathapala)
+![trophy](https://github-profile-trophy.vercel.app/?username=shehansugathapala&theme=onedark&margin-w=10)
 
 ---
 

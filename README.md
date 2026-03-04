@@ -72,13 +72,10 @@ I enjoy designing **clean, maintainable mobile architectures** and building prod
 ## 📊 GitHub Statistics
 ![Shehan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shehansugathapala&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shehansugathapala&layout=compact)
 
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shehansugathapala)
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shehansugathapala)
 
 ---
 
